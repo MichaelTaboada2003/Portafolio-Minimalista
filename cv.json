@@ -1,0 +1,116 @@
+
+
+      {
+        "basics": {
+          "name": "Michael Taboada",
+          "label": "Ingeniero de Sistemas y Computación y Científico de Datos",
+          "image": "https://i.postimg.cc/Bn7d4BW5/photo1710475066.jpg",
+          "email": "narutosaga00@gmail.com",
+          "phone": "+57 3108705396",
+          "summary": "Estudiante de octavo semestre ingeniería de sistemas y computación, y empezando Ciencias de Datos, en la Universidad Tecnologica de Bolívar, con conocimientos en desarrollo web y arquitectura de software.",
+          "location": {
+            "city": "Turbaco",
+            "countryCode": "CO",
+            "region": "Bolivar"
+          },
+          "profiles": [
+            {
+              "network": "LinkedIn",
+              "username": "Michael Taboada",
+              "url": "https://www.linkedin.com/in/michael-taboada-naranjo-0263171b1/"
+            },
+            {
+              "network": "GitHub",
+              "username": "MichaelTaboada2003",
+              "url": "https://github.com/MichaelTaboada2003"
+            }
+          ]
+        },
+        "work": [
+          {
+            "name": "Próximamente...",
+            "position": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+          }
+        ],
+        "education": [{
+          "institution": "Universidad Tecnologica de Bolívar",
+          "area": "Ingeniero de Sistemas y Computación y Ciencias de Datos",
+          "startDate": "2020-02-29",
+          "endDate": null
+        }],
+        "skills": [
+          {
+            "name": "HTML",
+            "keywords": [
+              "Desarrollo Web", "Frontend"
+            ]
+          },
+          {
+            "name": "CSS",
+            "keywords": [
+              "Desarrollo Web", "Frontend", "Diseño Responsive"
+            ]
+          },
+          {
+            "name": "JavaScript",
+            "keywords": [
+              "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+            ]
+          },
+          {
+            "name": "React",
+            "keywords": [
+              "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+            ]
+          },
+          {
+            "name": "Tailwind",
+            "keywords": [
+              "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+            ]
+          },
+          {
+            "name": "Git",
+            "keywords": [
+              "Control de Versiones", "Colaboración", "Código Fuente"
+            ]
+          },
+          {
+            "name": "GitHub",
+            "keywords": [
+              "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+            ]
+          },
+          
+          {
+            "name": "Python",
+            "keywords": [
+              "Investigación", "Backend", "Ciencia de Datos", "Machine Learning"
+            ]
+          },
+          {
+            "name": "MongoDB",
+            "keywords": [
+              "Investigación", "Backend", "Ciencia de Datos", "Almacenamiento"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Generador de catálogos automáticos",
+            "isActive": true,
+            "description": "Genera PDFs de catálogos de productos de forma automática basado en una plantilla",
+            "highlights": [
+              "Crea tus propios catálogos",
+              "Automatiza la creación de catálogos"
+            ],
+            "url": "https://github.com/MichaelTaboada2003/Generador-de-Catalogos-Version-Publica",
+            "github": "https://github.com/MichaelTaboada2003/Generador-de-Catalogos-Version-Publica"
+          }
+        ]
+      }
+
+  
